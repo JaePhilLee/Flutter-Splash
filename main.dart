@@ -1,3 +1,5 @@
+//flutter pub add flutter_gif : gif 제어 (https://pub.dev/packages/gif_view)
+
 import 'package:flutter/material.dart';
 import 'package:gif_view/gif_view.dart';
 
